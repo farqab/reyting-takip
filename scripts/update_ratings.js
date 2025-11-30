@@ -1,6 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+
+puppeteer.use(StealthPlugin());
 
 // Path to the data file
 const DATA_FILE = path.join(__dirname, '../data/ratings.json');
