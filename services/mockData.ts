@@ -7,7 +7,12 @@ export interface Episode {
 export interface Show {
     id: string;
     title: string;
-    rating: number;
+    rating: number; // Keeps backward compatibility (Total)
+    ratings?: {
+        total: number;
+        ab: number;
+        abc1: number;
+    };
     image: string;
     description: string;
     season: number;
