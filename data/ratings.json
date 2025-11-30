@@ -139,7 +139,7 @@
   {
     "id": "6",
     "title": "Gönül Dağı",
-    "rating": 8.2,
+    "rating": 5.7,
     "image": "https://via.placeholder.com/300x450",
     "description": "Bozkırda bir Anadolu masalı... Sapsarı toprakların, yıllarca dile gelen efsanelerin, unutulmaz aşkların hikayesi.",
     "season": 4,
@@ -148,7 +148,8 @@
       8.1,
       8.2,
       8.3,
-      8.2
+      8.2,
+      5.7
     ],
     "episodes": [
       {
@@ -161,6 +162,138 @@
         "title": "Bölüm 131",
         "rating": 8.2
       }
-    ]
+    ],
+    "ratings": {
+      "total": 5.7,
+      "ab": 5.7,
+      "abc1": 5.7
+    },
+    "lastUpdated": "2025-11-30"
+  },
+  {
+    "id": "7",
+    "title": "Güller ve Günahlar",
+    "rating": 7.73,
+    "ratings": {
+      "total": 7.73,
+      "ab": 7.73,
+      "abc1": 7.73
+    },
+    "image": "https://via.placeholder.com/300x450",
+    "description": "Yeni eklenen dizi.",
+    "season": 1,
+    "ratingHistory": [
+      7.73
+    ],
+    "episodes": [],
+    "lastUpdated": "2025-11-30"
+  },
+  {
+    "id": "8",
+    "title": "Güller ve Günahlar (Özet)",
+    "rating": 4.17,
+    "ratings": {
+      "total": 4.17,
+      "ab": 4.17,
+      "abc1": 4.17
+    },
+    "image": "https://via.placeholder.com/300x450",
+    "description": "Yeni eklenen dizi.",
+    "season": 1,
+    "ratingHistory": [
+      4.17
+    ],
+    "episodes": [],
+    "lastUpdated": "2025-11-30"
+  },
+  {
+    "id": "9",
+    "title": "Ben Leman",
+    "rating": 3.46,
+    "ratings": {
+      "total": 3.46,
+      "ab": 3.46,
+      "abc1": 3.46
+    },
+    "image": "https://via.placeholder.com/300x450",
+    "description": "Yeni eklenen dizi.",
+    "season": 1,
+    "ratingHistory": [
+      3.46
+    ],
+    "episodes": [],
+    "lastUpdated": "2025-11-30"
+  },
+  {
+    "id": "10",
+    "title": "MasterChef Türkiye",
+    "rating": 3.09,
+    "ratings": {
+      "total": 3.09,
+      "ab": 3.09,
+      "abc1": 3.09
+    },
+    "image": "https://via.placeholder.com/300x450",
+    "description": "Yeni eklenen dizi.",
+    "season": 1,
+    "ratingHistory": [
+      3.09
+    ],
+    "episodes": [],
+    "lastUpdated": "2025-11-30"
+  },
+  {
+    "id": "11",
+    "title": "Güldür Güldür Show (Özet)",
+    "rating": 3,
+    "ratings": {
+      "total": 3,
+      "ab": 3,
+      "abc1": 3
+    },
+    "image": "https://via.placeholder.com/300x450",
+    "description": "Yeni eklenen dizi.",
+    "season": 1,
+    "ratingHistory": [
+      3
+    ],
+    "episodes": [],
+    "lastUpdated": "2025-11-30"
+  },
+  {
+    "id": "12",
+    "title": "Gönül Dağı (Özet)",
+    "rating": 2.92,
+    "ratings": {
+      "total": 2.92,
+      "ab": 2.92,
+      "abc1": 2.92
+    },
+    "image": "https://via.placeholder.com/300x450",
+    "description": "Yeni eklenen dizi.",
+    "season": 1,
+    "ratingHistory": [
+      2.92
+    ],
+    "episodes": [],
+    "lastUpdated": "2025-11-30"
+  },
+  {
+    "id": "13",
+    "title": "Güldür Güldür Show",
+    "rating": 2.86,
+    "ratings": {
+      "total": 2.86,
+      "ab": 2.86,
+      "abc1": 2.86
+    },
+    "image": "https://via.placeholder.com/300x450",
+    "description": "Yeni eklenen dizi.",
+    "season": 1,
+    "ratingHistory": [
+      2.86
+    ],
+    "episodes": [],
+    "lastUpdated": "2025-11-30"
   }
 ]
